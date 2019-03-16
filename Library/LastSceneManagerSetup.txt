@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Alphabet Board/Scenes/AlphabetWriting-2.unity
+  isLoaded: 1
+  isActive: 1
